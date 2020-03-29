@@ -1,8 +1,5 @@
 # projetoOngs
 Projeto para notificar os incidentes das ongs
-<h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src=".github/logo.svg" width="250px" />
-</h1>
 
 <h4 align="center"> 
 	:construction: 🚀 Semana OmniStack 11.0 In progress.. :construction:
