@@ -1,20 +1,10 @@
-const connection = require('../database/connection');
-
+const connection = require("../database/connection");
 module.exports = {
-    async index(req, res) {
-        const { id } = req.body;
-
-        const ong = await connection('ongs')
-            .where('id', id)
-            .select('nome')
-            .first();
-
-
-        if (!ong) {
-            return res.status(400).json({ error: 'No ONG found with this ID' })
-        }
-
-        return res.json(ong);
-    }
-
-}
+  async index(req, res) {
+    const ong_id = req.headers.authorization;
+    const incidents = await connection("incidents")
+      .where("ong_id", ong_id)
+      .select("*");
+    return res.json(incidents);
+  }
+};
