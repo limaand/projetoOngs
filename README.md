@@ -10,6 +10,20 @@ Projeto para notificar os incidentes das ongs
   <img alt="desktop" src="https://github.com/limaand/projetoOngs/blob/master/frontend/public/Desktop.gif" width="700px">
 </p>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/limaand/projetoOngs?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/limaand/projetoOngs">
+	
+  <a href="https://www.linkedin.com/in/aplj2">
+    <img alt="Made by Anderson Lima" src="https://img.shields.io/badge/made%20by-AndersonLima-%2304D361">
+  </a>
+
+
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 
 <p align="center">
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
