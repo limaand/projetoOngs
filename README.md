@@ -7,7 +7,7 @@ Projeto para notificar os incidentes das ongs
 </h2>  
 
 <p align="center">
-  <img alt="desktop" src="../.github/Desktop.gif" width="700px">
+  <img alt="desktop" src="https://github.com/limaand/projetoOngs/blob/master/frontend/public/Desktop.gif" width="700px">
 </p>
 
 
