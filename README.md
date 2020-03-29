@@ -1,6 +1,12 @@
 # projetoOngs
 Projeto para notificar os incidentes das ongs
+<h1 align="center">
+    <img alt="BeTheHero" title="#BeTheHero" src=".github/logo.svg" width="250px" />
+</h1>
 
+<h4 align="center"> 
+	:construction: 🚀 Semana OmniStack 11.0 In progress.. :construction:
+</h4>
 
 <h2 align="center">
 :computer: Desktop Preview :computer:
@@ -19,7 +25,9 @@ Projeto para notificar os incidentes das ongs
     <img alt="Made by Anderson Lima" src="https://img.shields.io/badge/made%20by-AndersonLima-%2304D361">
   </a>
 
-
+   <a href="https://github.com/limaand/projetoOngs/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/limaand/projetoOngs">
+  </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
